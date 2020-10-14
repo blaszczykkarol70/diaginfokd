@@ -2,7 +2,7 @@
 templateKey: index-page
 title: DiagInfo KD
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
+heading: Diagnostyka, naprawa, regeneracja części oraz maszyn OFF-HIGHWAY.
 subheading: Diagnostyka, naprawa, regeneracja części oraz maszyn OFF-HIGHWAY.
 mainpitch:
   title: Test Test
