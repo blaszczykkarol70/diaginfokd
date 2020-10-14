@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Diagnostyka
+title: DiagInfo KD
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+subheading: Diagnostyka, naprawa, regeneracja części oraz maszyn OFF-HIGHWAY.
 mainpitch:
   title: Test Test
   description: >
