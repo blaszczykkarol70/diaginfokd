@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: DiagInfo KD
-image: 
+image: /img/home-jumbotron.jpg
 heading: Diagnostyka, naprawa, regeneracja części oraz maszyn OFF-HIGHWAY.
 subheading: NAVIGATOR TXTs
 mainpitch:
@@ -17,33 +17,36 @@ NAVIGATOR TXTs 26pin jest najnowszym diagnostycznym interfejsem wielomarkowym TE
   
 intro:
   blurbs:
-    - image: 
+    - image: /img/coffee.png
       text: >
+        .
         
-    - image: 
+    - image: /img/coffee-gear.png
       text: >
-        
-    - image: 
+        .
+    - image: /img/tutorials.png
       text: >
-        
-    - image: 
+        .
+    - image: /img/meeting-space.png
       text: >
-        
-  heading: 
+        .
+  heading: What we offer
   description: >
-    
+    ...
 main:
-  heading: 
+  heading: Great coffee with no compromises
   description: >
-    
+    # We hold our coffee to the highest standards from the shrub to the cup.
+    # That’s why we’re meticulous and transparent about each step of the coffee’s
+    # journey. We personally visit each farm to make sure the conditions are
+    # optimal for the plants, farmers and the local environment.
   image1:
-    alt: 
-    image: 
+    alt: A close-up of a paper filter filled with ground coffee
+    image: /img/products-grid3.jpg
   image2:
-    alt: 
-    alt: 
-    image: 
+    alt: A green cup of a coffee on a wooden table
+    image: /img/products-grid2.jpg
   image3:
-    alt: 
-    image: 
+    alt: Coffee beans
+    image: /img/products-grid1.jpg
 ---
